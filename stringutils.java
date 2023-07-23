@@ -1,2 +1,1 @@
-This is first line for stringutils java file.
-Adding second line...
+This is first line for stringutils java file..
